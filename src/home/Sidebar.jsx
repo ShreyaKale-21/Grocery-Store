@@ -20,7 +20,7 @@ import hot from "../images/hotProduct.jpg";
 import new1 from "../images/new1.jpg";
 import new2 from "../images/new2.jpg";
 import new3 from "../images/new3.jpg";
-import new4 from "../images/new4.png";
+import new4 from "../images/new4.jpg";
 import new5 from "../images/new5.jpg";
 import new6 from "../images/new6.jpg";
 import new7 from "../images/new7.jpg";
